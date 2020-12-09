@@ -1,0 +1,9 @@
+<svg width="260" height="250" viewBox="0 0 260 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="130" cy="125" r="100" fill="black"/>
+<circle cx="130" cy="125" r="75" fill="white"/>
+<rect width="260" height="25" fill="black"/>
+<rect y="225" width="260" height="25" fill="black"/>
+<path d="M235 25H260V125H235V25Z" fill="black"/>
+<rect y="125" width="25" height="100" fill="black"/>
+<rect x="242.988" y="242.628" width="326.46" height="25" transform="rotate(-138.1 242.988 242.628)" fill="black"/>
+</svg>
